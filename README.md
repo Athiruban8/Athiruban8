@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Athiruban8">
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=4B9EFF&center=true&vCenter=true&width=600&lines=Building+full+stack+apps+and+exploring+AI%2FML;Full+Stack+Developer+and+Systems+Enthusiast;Learning+Spring+Boot+and+Backend+Architectures" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=4B9EFF&center=true&vCenter=true&width=600&lines=Building+full+stack+apps+and+exploring+AI%2FML;Full+Stack+Developer+and+Systems+Enthusiast;Mastering+Spring+Boot+and+Backend+Architectures" />
   </a>
 </p>
 
@@ -64,7 +64,6 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Athiruban8&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athiruban8&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
@@ -76,19 +75,3 @@
 </p>
 
 ---
-
-### 🌐 Connect  
-<p align="left">
-  <a href="https://www.linkedin.com/in/athiruban-p" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Athiruban8" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>"Code like you mean it — systems break, but passion scales."</i>
-</p>
